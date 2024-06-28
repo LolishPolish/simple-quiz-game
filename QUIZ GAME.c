@@ -43,6 +43,11 @@ int main()
           printf("yay noice correct\n");
           score++ ; 
         }
+         else if (i==3)
+        {
+            printf("yay noice correct\n");
+            score++ ;
+        }   
         else
         {
             printf("lol cring wrong\n");
